@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;GIẢNG VIÊN&quot;">
+      <data key="d0">"ROLE"</data>
+      <data key="d1">"Giảng viên là một trong những vai trò quan trọng trong ngành CNTT chất lượng cao."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;NGÀNH CNTT CHẤT LƯỢNG CAO&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Ngành CNTT chất lượng cao là một ngành học cung cấp cho sinh viên những kiến thức mới và được cập nhật thường xuyên về khoa học dữ liệu, dữ liệu lớn, trí tuệ nhân tạo, học máy, điện toán đám mây, Internet vạn vật..."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;A00: TOÁN – LÝ – HÓA&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"A00: Toán – Lý – Hóa là một tên ngành của chương trình đào tạo."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;7080201_CLC&quot;">
+      <data key="d0">"MÃ NGÀNH"</data>
+      <data key="d1">"Mã ngành CNTT chất lượng cao là 7080201_CLC."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;A01: TOÁN – LÝ – ANH&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"A01: Toán – Lý – Anh là một tên ngành của chương trình đào tạo."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;VĂN - TOÁN - ĐỊA&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Văn - Toán - Địa là một tổ hợp môn thi đầu vào của ngành."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;A00, A01, D01, D07&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Tổ hợp môn của ngành CNTT chất lượng cao là A00, A01, D01, D07."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;4 NĂM&quot;">
+      <data key="d0">"THỜI GIAN ĐÀO TẠO"</data>
+      <data key="d1">"Thời gian đào tạo của ngành là 4 năm."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;C01: TOÁN – LÝ – VĂN&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"C01: Toán – Lý – Văn là một tên ngành của chương trình đào tạo."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;25&quot;">
+      <data key="d0">"ĐIỂM"</data>
+      <data key="d1">"Điểm đầu vào của ngành CNTT chất lượng cao là 25."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;22.95&quot;">
+      <data key="d0">"ĐIỂM"</data>
+      <data key="d1">"Điểm trung bình của chương trình đào tạo là 22.95."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;4,5 NĂM&quot;">
+      <data key="d0">"THỜI GIAN ĐÀO TẠO"</data>
+      <data key="d1">"Thời gian đào tạo của chương trình là 4,5 năm."&lt;SEP&gt;"Thời gian đào tạo của ngành CNTT chất lượng cao là 4,5 năm."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7&lt;SEP&gt;chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;TOÁN - LÝ - HÓA&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Toán - Lý - Hóa là một tổ hợp môn thi đầu vào của ngành."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;TOÁN – LÝ – HÓA&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Toán – Lý – Hóa là một tổ hợp môn của chương trình đào tạo."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;507.000/TÍN CHỈ&quot;">
+      <data key="d0">"HỌC PHÍ"</data>
+      <data key="d1">"Học phí của ngành CNTT chất lượng cao là 507.000/tín chỉ."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;NGÀNH ĐỊA CHẤT HỌC&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Ngành địa chất học là ngành khoa học nghiên cứu về Trái đất, trong đó tập chung nghiên cứu cấu trúc, đặc điểm vật lý, động lực, và lịch sử của các vật liệu (các loại đất đá, khoáng sản rắn, lỏng, khí…) trên Trái đất, kể cả các quá trình hình thành, vận chuyển và biến đổi của các vật liệu này. Giải quyết các vấn đề của địa chất liên quan đến rất nhiều chuyên ngành khác nhau. Lĩnh vực này cũng rất quan trọng trong việc khai thác khoáng sản và dầu khí. Ngoài ra, nó cũng nghiên cứu giảm nhẹ các tai biến tự nhiên và cổ khí hậu cùng các lĩnh vực kỹ thuật khác."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;TOÁN – LÝ – ANH&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Toán – Lý – Anh là một tổ hợp môn của chương trình đào tạo."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;TRÍ TUỆ NHÂN TẠO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Trí tuệ nhân tạo là một trong những kiến thức mới và được cập nhật thường xuyên của ngành CNTT chất lượng cao."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;16&quot;">
+      <data key="d0">"ĐIỂM"</data>
+      <data key="d1">"Điểm đầu vào của ngành là 16."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;5.5 – 6 TRIỆU&quot;">
+      <data key="d0">"HỌC PHÍ"</data>
+      <data key="d1">"Học phí của một học kỳ là 5.5 – 6 triệu."&lt;SEP&gt;"Học phí của ngành trung bình từ 5.5 đến 6 triệu một học kỳ."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7&lt;SEP&gt;chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;TOÁN – LÝ – VĂN&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Toán – Lý – Văn là một tổ hợp môn của chương trình đào tạo."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </node>
+    <node id="&quot;DỮ LIỆU LỚN&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Dữ liệu lớn là một trong những kiến thức mới và được cập nhật thường xuyên của ngành CNTT chất lượng cao."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;11 – 12 TRIỆU ĐỒNG&quot;">
+      <data key="d0">"HỌC PHÍ"</data>
+      <data key="d1">"Học phí của một năm là 11 – 12 triệu đồng."&lt;SEP&gt;"Học phí của ngành trung bình từ 11 đến 12 triệu một năm."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7&lt;SEP&gt;chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;HỌC MÁY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Học máy là một trong những kiến thức mới và được cập nhật thường xuyên của ngành CNTT chất lượng cao."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;DOANH NGHIỆP TÀI TRỢ HỌC BỔNG&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Doanh nghiệp tài trợ học bổng cho sinh viên có điểm thi đầu vào cao hoặc có thành tích học tập tốt."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;ĐIỆN TOÁN ĐÁM MÂY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Điện toán đám mây là một trong những kiến thức mới và được cập nhật thường xuyên của ngành CNTT chất lượng cao."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;SINH VIÊN CÓ THÀNH TÍCH CAO&quot;">
+      <data key="d0">"ĐIỂM"</data>
+      <data key="d1">"Sinh viên có thành tích cao trong học tập, rèn luyện, nghiên cứu khoa học, thi olympic, khởi nghiệp, hoạt động phong trào."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;TOÁN - HÓA - ĐỊA&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Toán - Hóa - Địa là một tổ hợp môn thi đầu vào của ngành."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;INTERNET VẠN VẬT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Internet vạn vật là một trong những kiến thức mới và được cập nhật thường xuyên của ngành CNTT chất lượng cao."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;KHOA HỌC VÀ CÔNG NGHỆ&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Khoa học và công nghệ là lĩnh vực nghiên cứu về các khoa học tự nhiên, khoa học xã hội, khoa học ứng dụng."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;FPT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"FPT là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;TÀI NGUYÊN VÀ MÔI TRƯỜNG&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Tài nguyên và Môi trường là lĩnh vực nghiên cứu về các vấn đề môi trường, tài nguyên, và sự phát triển bền vững."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;TOÁN – VĂN - ANH&quot;">
+      <data key="d0">"TỔ HỢP MÔN"</data>
+      <data key="d1">"Toán – Văn - Anh là một tổ hợp môn thi đầu vào của ngành."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;338.000/TÍN CHỈ&quot;">
+      <data key="d0">"HỌC PHÍ"</data>
+      <data key="d1">"Học phí của chương trình là 338.000/tín chỉ."&lt;SEP&gt;"Học phí của ngành là 338.000/tín chỉ."</data>
+      <data key="d2">chunk-ce81a3bbee29970051cb9d8d54c9ffc7&lt;SEP&gt;chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;VNPT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"VNPT là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;GIAO THÔNG VẬN TẢI&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Giao thông vận tải là lĩnh vực nghiên cứu về các vấn đề giao thông, vận tải, và phát triển hạ tầng."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;VIETTEL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Viettel là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;XÂY DỰNG&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Xây Dựng là lĩnh vực nghiên cứu về các vấn đề xây dựng, kiến trúc, và phát triển hạ tầng."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;CMC&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"CMC là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;TỔNG CỤC ĐỊA CHẤT VÀ KHOÁNG SẢN VIỆT NAM&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Tổng cục Địa chất và Khoáng sản Việt Nam là một tổ chức nghiên cứu và quản lý về địa chất và khoáng sản."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;VTI GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"VTI Group là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;BIỂN VÀ HẢI ĐẢO&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Biển và Hải đảo là lĩnh vực nghiên cứu về các vấn đề biển, hải đảo, và phát triển du lịch."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;GOOGLE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Google là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;MÔI TRƯỜNG&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Môi trường là lĩnh vực nghiên cứu về các vấn đề môi trường, tài nguyên, và sự phát triển bền vững."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <node id="&quot;MICROSOFT&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Microsoft là một trong những doanh nghiệp cung cấp dịch vụ CNTT."</data>
+      <data key="d2">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </node>
+    <node id="&quot;DOANH NGHIỆP ĐA QUỐC GIA&quot;">
+      <data key="d0">"TÊN NGÀNH"</data>
+      <data key="d1">"Doanh nghiệp đa Quốc gia là các doanh nghiệp có trụ sở và hoạt động trên toàn cầu."</data>
+      <data key="d2">chunk-13aed5b863c1de916bbe376c94e4dc55</data>
+    </node>
+    <edge source="&quot;NGÀNH CNTT CHẤT LƯỢNG CAO&quot;" target="&quot;25&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Ngành CNTT chất lượng cao có điểm đầu vào là 25."</data>
+      <data key="d5">"điểm đầu vào"</data>
+      <data key="d6">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </edge>
+    <edge source="&quot;NGÀNH CNTT CHẤT LƯỢNG CAO&quot;" target="&quot;7080201_CLC&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Ngành CNTT chất lượng cao có mã ngành là 7080201_CLC."</data>
+      <data key="d5">"mã ngành"</data>
+      <data key="d6">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </edge>
+    <edge source="&quot;NGÀNH CNTT CHẤT LƯỢNG CAO&quot;" target="&quot;A00, A01, D01, D07&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Ngành CNTT chất lượng cao có tổ hợp môn là A00, A01, D01, D07."</data>
+      <data key="d5">"tổ hợp môn"</data>
+      <data key="d6">chunk-c858234dd20b811226115f6bae6026a4</data>
+    </edge>
+    <edge source="&quot;A00: TOÁN – LÝ – HÓA&quot;" target="&quot;22.95&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"A00: Toán – Lý – Hóa có điểm trung bình là 22.95."</data>
+      <data key="d5">"điểm trung bình"</data>
+      <data key="d6">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </edge>
+    <edge source="&quot;A00: TOÁN – LÝ – HÓA&quot;" target="&quot;TOÁN – LÝ – HÓA&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"A00: Toán – Lý – Hóa có tổ hợp môn là Toán – Lý – Hóa."</data>
+      <data key="d5">"tổ hợp môn"</data>
+      <data key="d6">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </edge>
+    <edge source="&quot;A01: TOÁN – LÝ – ANH&quot;" target="&quot;TOÁN – LÝ – ANH&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"A01: Toán – Lý – Anh có tổ hợp môn là Toán – Lý – Anh."</data>
+      <data key="d5">"tổ hợp môn"</data>
+      <data key="d6">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </edge>
+    <edge source="&quot;A01: TOÁN – LÝ – ANH&quot;" target="&quot;22.95&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"A01: Toán – Lý – Anh có điểm trung bình là 22.95."</data>
+      <data key="d5">"điểm trung bình"</data>
+      <data key="d6">chunk-ce81a3bbee29970051cb9d8d54c9ffc7</data>
+    </edge>
+  </graph>
+</graphml>

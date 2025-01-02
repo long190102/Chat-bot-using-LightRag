@@ -1,0 +1,15 @@
+Xử lý ảnh:
+
+#Crop ảnh đầu vào
+
+
+
+#Tiền xử lý: lọc nhiễu sử dụng bộ lọc gaussian và bộ lọc trung vị
+ 
+#Chuyển ảnh sang ảnh Binary
+
+#Tiến hành tìm contour trên ảnh binary và loại bỏ các contour nhiễu bằng cách chỉ xét các contour có diện tích đủ lớn. Nếu số contour hợp lệ nhiều hơn 1, báo lỗi đứt đoạn.
+
+#Chiều dài của đường keo sẽ dài sấp xỉ chiều dài của contour. Nếu chiều dài này ngắn hơn chiều dài chuẩn (sấp xỉ chiều rộng của ảnh sau khi crop) thì sẽ báo lỗi thiếu chiều dài
+
+#Tiến hành chia contour thành nhiều phần nhỏ, tính chiều rộng của từng phần. Nếu chiều rộng có giá trị pixel lớn hơn hoặc nhỏ hơn giá trị đã đặt trước thì sẽ báo lỗi tương ứng (thiếu hoặc thừa chiều rộng)

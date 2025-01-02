@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;KỸ SƯ KHẢO SÁT&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư khảo sát là một nghề nghiệp của ngành Kỹ thuật Địa vật lý."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;A00: TOÁN - LÝ - HÓA&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A00: Toán - Lý - Hóa là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;KỸ SƯ TRONG CÁC CƠ QUAN, CÁC CÔNG TY TRONG VÀ NGOÀI NƯỚC&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư trong các cơ quan, các công ty trong và ngoài nước là một nghề nghiệp của ngành Kỹ thuật Địa vật lý."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;A04: TOÁN - LÝ - ĐỊA&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A04: Toán - Lý - Địa là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;D07: TOÁN - HÓA - ANH&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"D07: Toán - Hóa - Anh là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;XỬ LÝ, PHÂN TÍCH VÀ KHAI THÁC DỮ LIỆU&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Xử lý, phân tích và khai thác dữ liệu là một công việc của ngành Kỹ sư khảo sát."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;A01: TOÁN - LÝ - ANH&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A01: Toán - Lý - Anh là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;7520502&quot;">
+  <data key="d0">"MÃ NGÀNH"</data>
+  <data key="d1">"Mã ngành của ngành Kỹ thuật Địa vật lý là 7520502"</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;4,5 NĂM&quot;">
+  <data key="d0">"THỜI GIAN ĐÀO TẠO"</data>
+  <data key="d1">"Thời gian đào tạo của ngành là 4,5 năm."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f&lt;SEP&gt;chunk-ebcd2efc0ddf4ea308503b0c27466c0f&lt;SEP&gt;chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;TƯ VẤN KIỂM ĐỊNH, THIẾT KẾ, ĐÁNH GIÁ, VÀ GIÁM SÁT&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Tư vấn kiểm định, thiết kế, đánh giá, và giám sát là một công việc của ngành Kỹ sư khảo sát."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;KỸ THUẬT ĐỊA VẬT LÝ&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Ngành Kỹ thuật Địa vật lý là một ngành khoa học nghiên cứu về Trái đất, để khai thác được các nguồn tài nguyên thiên nhiên, để hiểu biết về Trái đất, muốn phòng tránh các thảm họa thiên tai như động đất, núi lửa, cần phải có các hình ảnh bên trong Trái đất. Các kỹ sư Địa vật lý đã sử dụng các máy móc thiết bị đo đạc các trường vật lý để xây dựng hình ảnh bên trong Trái đất. Do vậy, công việc của các kỹ sư Địa vật lý cũng có những điểm tương đồng như kỹ thuật ảnh y học, cần có quá trình chụp chiếu, xử lý và giải tích kết quả."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;445.100 ĐỒNG/TÍN CHỈ&quot;">
+  <data key="d0">"HỌC PHÍ"</data>
+  <data key="d1">"Học phí của ngành là 445.100 đồng/tín chỉ."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f&lt;SEP&gt;chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;KỸ SƯ XÂY DỰNG DỰ ÁN VÀ QUẢN LÝ DỰ ÁN&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư xây dựng dự án và quản lý dự án là một nghề nghiệp của ngành Kỹ thuật Địa vật lý."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;KỸ THUẬT ĐỊA VẬT LÝ HỌC BỔNG&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Ngành Kỹ thuật Địa vật lý học bổng là một chương trình học bổng cho sinh viên có thành tích cao trong học tập, rèn luyện, nghiên cứu khoa học, thi olympic, khởi nghiệp, hoạt động phong trào, sinh viên có hoàn cảnh khó khăn vươn lên trong học tập có cơ hội nhận học bổng, khen thưởng, hỗ trợ từ Nhà trường, khoa, doanh nghiệp..."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;18&quot;">
+  <data key="d0">"ĐIỂM"</data>
+  <data key="d1">"Điểm đầu vào của ngành là 18."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;NHÀ NGHIÊN CỨU TRONG CÁC CƠ QUAN, VIỆN NGHIÊN CỨU VÀ CÁC TRƯỜNG ĐẠI HỌC&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Nhà nghiên cứu trong các cơ quan, viện nghiên cứu và các trường đại học là một nghề nghiệp của ngành Kỹ thuật Địa vật lý."</data>
+  <data key="d2">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</node>
+<node id="&quot;A00 (TOÁN – LÝ – HÓA)&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A00 (Toán – Lý – Hóa) là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;338.000/TÍN CHỈ&quot;">
+  <data key="d0">"HỌC PHÍ"</data>
+  <data key="d1">"Học phí của ngành là 338.000/tín chỉ."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;VINFAST VIETNAM, VIETTEL POST, VNPT POST&quot;">
+  <data key="d0">"NHÀ MÁY"</data>
+  <data key="d1">"Các nhà máy, dây chuyền sản xuất tự động: Vinfast Vietnam, Viettel post, VNPT post, …"</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KỸ SƯ KIỂM ĐỊNH&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư kiểm định là người kiểm định dự án về hệ thống robot - trí tuệ nhân tạo."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KỸ SƯ LẬP TRÌNH&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư lập trình là người lập trình hệ thống robot và trí tuệ nhân tạo."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;YASKAWA, ABB, FANUC, KUKA, KAWASAKI, NACHI, EPSON&quot;">
+  <data key="d0">"CÔNG TY"</data>
+  <data key="d1">"Các công ty chế tạo robotics như Yaskawa, ABB, Fanuc, Kuka, Kawasaki, Nachi, Epson."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;A01 (TOÁN – LÝ – ANH)&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A01 (Toán – Lý – Anh) là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KỸ SƯ THIẾT KẾ&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư thiết kế là người thiết kế sản phẩm hệ thống robot và trí tuệ nhân tạo."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KỸ SƯ PHÁT TRIỂN&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư phát triển là người phát triển sản phẩm hệ thống robot và trí tuệ nhân tạo."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;22,5&quot;">
+  <data key="d0">"ĐIỂM"</data>
+  <data key="d1">"Điểm đầu vào của ngành là 22,5."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;HỌC BỔNG&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Học bổng là một chương trình hỗ trợ tài chính cho sinh viên."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KỸ SƯ QUẢN LÝ DỰ ÁN&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ sư quản lý dự án là người quản lý dự án về hệ thống robot - trí tuệ nhân tạo."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KỸ THUẬT ROBOT VÀ TRÍ TUỆ NHÂN TẠO&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Kỹ thuật robot và trí tuệ nhân tạo là ngành mới, kết hợp giữa kỹ thuật robot và trí tuệ nhân tạo nhằm tạo ra các robot, máy móc và hệ thống tự động hóa sản xuất thông minh. Ngành Kỹ thuật robot và trí tuệ nhân tạo là lĩnh vực đào tạo nguồn nhân lực mới chuyên sâu cho các nhà máy, doanh nghiệp trong thời kì chuyển đổi số với mức độ tự động hóa cao tại Việt Nam và trên thế giới."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;7520218&quot;">
+  <data key="d0">"MÃ NGÀNH"</data>
+  <data key="d1">"Mã ngành của ngành Kỹ thuật robot và trí tuệ nhân tạo là 7520218"</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;TRƯỜNG&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Trường là nơi đào tạo sinh viên."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;11 – 12 TRIỆU ĐỒNG&quot;">
+  <data key="d0">"HỌC PHÍ"</data>
+  <data key="d1">"Học phí của ngành trung bình từ 11 đến 12 triệu một năm."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;MỸ, CANADA, ĐỨC, PHÁP, NGA, TRUNG QUỐC&quot;">
+  <data key="d0">"NƯỚC"</data>
+  <data key="d1">"Các nước phát triển như Mỹ, Canada, Đức, Pháp, Nga, Trung Quốc."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;C01 (TOÁN – LÝ – VĂN)&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"C01 (Toán – Lý – Văn) là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;ĐẠI HỌC MỎ-ĐỊA CHẤT&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Đại học Mỏ-Địa chất là một trường đại học."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;5.5 – 6 TRIỆU&quot;">
+  <data key="d0">"HỌC PHÍ"</data>
+  <data key="d1">"Học phí của ngành trung bình từ 5.5 đến 6 triệu một học kỳ."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;KHOA&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Khoa là một đơn vị đào tạo chuyên ngành."</data>
+  <data key="d2">chunk-79ae08e6d7fb8cba43b7bdc1323f4288</data>
+</node>
+<node id="&quot;THỰC TẬP, VIỆC LÀM PART-TIME, FULL-TIME&quot;">
+  <data key="d0">"HỌC BỔNG"</data>
+  <data key="d1">"Sinh viên được giới thiệu thực tập, việc làm part-time, full-time."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;TẬP ĐOÀN MASAN&quot;">
+  <data key="d0">"CƠ HỘI VIỆC LÀM"</data>
+  <data key="d1">"-Tập đoàn Masan;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;CHÍNH SÁCH HỖ TRỢ&quot;">
+  <data key="d0">"HỌC BỔNG"</data>
+  <data key="d1">"Sinh viên được hỗ trợ tìm kiếm việc làm trong khi học và sau khi tốt nghiệp ra trường."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;A01&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A01 là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;A00&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"A00 là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;TỔNG CÔNG TY KHOÁNG SẢN - TKV&quot;">
+  <data key="d0">"CƠ HỘI VIỆC LÀM"</data>
+  <data key="d1">"-Tổng Công ty khoáng sản - TKV;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;NGÀY HỘI VIỆC LÀM&quot;">
+  <data key="d0">"HỌC BỔNG"</data>
+  <data key="d1">"Hàng năm, Nhà trường tổ chức Ngày hội việc làm tạo điều kiện cho sinh viên có cơ hội tiếp cận và nộp hồ sơ ứng tuyển vào các doanh nghiệp phù hợp;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;7520607&quot;">
+  <data key="d0">"MÃ NGÀNH"</data>
+  <data key="d1">"Mã ngành của ngành Kỹ thuật tuyển khoáng là 7520607"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;B00&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"B00 là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;TẬP ĐOÀN HÒA PHÁT&quot;">
+  <data key="d0">"CƠ HỘI VIỆC LÀM"</data>
+  <data key="d1">"-Tập đoàn Hòa Phát;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;KỸ THUẬT TUYỂN KHOÁNG HỌC BỔNG&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Sinh viên có thành tích cao trong học tập, rèn luyện, nghiên cứu khoa học, thi olympic, khởi nghiệp, hoạt động phong trào, sinh viên có hoàn cảnh khó khăn vươn lên trong học tập có cơ hội nhận học bổng, khen thưởng, hỗ trợ từ Nhà trường, khoa, doanh nghiệp..."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;TỔNG CÔNG TY XI MĂNG VIỆT NAM&quot;">
+  <data key="d0">"CƠ HỘI VIỆC LÀM"</data>
+  <data key="d1">"-Tổng Công ty xi măng Việt Nam;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;KỸ THUẬT TUYỂN KHOÁNG&quot;">
+  <data key="d0">"TÊN NGÀNH"</data>
+  <data key="d1">"Học ngành Tuyển khoáng, sinh viên sẽ được đào tạo những kiến thức về Kỹ thuật tuyển khoáng, luyện kim và chế biến khoáng sản như: các phương pháp và công nghệ để lấy khoáng sản có ích từ các loại quặng, than, đá,…; các phương pháp và công nghệ luyện ra các kim loại có độ tinh khiết cao cung cấp cho nhiều ngành công nghiệp và công nghệ thu hồi vật liệu khoáng sản chất lượng cao cung cấp cho các ngành: phân bón, gốm, sứ, thủy tinh, xi măng, nhiệt điện, vật liệu xây dựng."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;15&quot;">
+  <data key="d0">"ĐIỂM"</data>
+  <data key="d1">"Điểm đầu vào của ngành là 15."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;TẬP ĐOÀN HÓA CHẤT VIỆT NAM&quot;">
+  <data key="d0">"CƠ HỘI VIỆC LÀM"</data>
+  <data key="d1">"-Tập đoàn Hóa chất Việt Nam và các tổng công ty, công ty thành viên;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;D01&quot;">
+  <data key="d0">"TỔ HỢP MÔN"</data>
+  <data key="d1">"D01 là một tổ hợp môn thi đầu vào của ngành."</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<node id="&quot;TẬP ĐOÀN CÔNG NGHIỆP THAN - KHOÁNG SẢN VIỆT NAM&quot;">
+  <data key="d0">"CƠ HỘI VIỆC LÀM"</data>
+  <data key="d1">"-Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam và các tổng công ty, công ty thành viên;"</data>
+  <data key="d2">chunk-86fac3234a078b059cf72b235043d33f</data>
+</node>
+<edge source="&quot;KỸ SƯ KHẢO SÁT&quot;" target="&quot;KỸ THUẬT ĐỊA VẬT LÝ HỌC BỔNG&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Sinh viên có thành tích cao trong học tập có thể trở thành Kỹ sư khảo sát."|&gt;"tên ngành"</data>
+  <data key="d5">10</data>
+  <data key="d6">chunk-ebcd2efc0ddf4ea308503b0c27466c0f</data>
+</edge>
+<edge source="&quot;7520607&quot;" target="&quot;KỸ THUẬT TUYỂN KHOÁNG&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Mã ngành của ngành Kỹ thuật tuyển khoáng là 7520607"</data>
+  <data key="d5">"mã ngành"</data>
+  <data key="d6">chunk-86fac3234a078b059cf72b235043d33f</data>
+</edge>
+<edge source="&quot;KỸ THUẬT TUYỂN KHOÁNG&quot;" target="&quot;15&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Ngành Kỹ thuật tuyển khoáng có điểm đầu vào là 15."</data>
+  <data key="d5">"điểm đầu vào"</data>
+  <data key="d6">chunk-86fac3234a078b059cf72b235043d33f</data>
+</edge>
+</graph></graphml>
